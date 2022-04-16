@@ -1,5 +1,5 @@
 # BOT-DISCORD Todyynho Music 🔨
-OLA. Me chamo frank fiz esse bot com otima qualidade Menu com varias Opeçoes etc..
+OLA. Me chamo Frank fiz esse bot Com otima qualidade. Menu com varias Opeçoes etc..
 
 BOT AINDA ESTAR EM DESENVOLVIMENTO ESPERO QUE GOSTEM.
 
