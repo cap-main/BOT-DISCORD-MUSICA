@@ -1,7 +1,7 @@
 # BOT-DISCORD Todyynho Music 🔨
-OLA, FIZ UM BOT TOTALMENTE MUSICA..
+OLA. Me chamo frank fiz esse bot com otima qualidade Menu com varias Opeçoes etc..
 
-BOT AINDA ESTAR EM DESENVOLVEMENTO ESPERO QUE GOSTEM.
+BOT AINDA ESTAR EM DESENVOLVIMENTO ESPERO QUE GOSTEM.
 
 <img src=https://cdn.discordapp.com/attachments/964940501209993346/965001137541500928/bothelp.png>
 
